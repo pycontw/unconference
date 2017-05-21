@@ -1,6 +1,8 @@
 # PyCon TW 2017 Unconference 非正式會議
 
 ## TL;DR
+- 時間 Time：June 11th (3rd day of the conference)
+- 地點 Venue：R4 交誼廳
 - [**簡介 Introduction**](https://tw.pycon.org/2017/events/unconference/)
 - [**投稿 Propose a talk**](https://github.com/pycontw/unconference/issues/new)
 - [**目前稿件列表 & 投票 Proposed talks list & votes**](https://github.com/pycontw/unconference/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
