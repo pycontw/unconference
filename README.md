@@ -25,7 +25,12 @@ We're going to use GitHub's Issues feature as our proposal and voting system for
 - Issue's description is your proposal's **abstract**. e.g. What will you cover in your speech/discussion? What's your target audience? What kind of interaction would you like to have with the crowd?
 - If you have any external footnotes, please also include them inside the issue's description.
 
+![](http://i.imgur.com/mhzpsDq.png)
+
 ## 如何投票？How to Vote?
 如同上述，我們使用 GitHub 的 Issues 功能作為非正式會議的投稿及投票系統，因此**對一個 issue 作出 "+1 reaction"** (👍) 即計為一票。您可以投票給多個稿件，且 +1 以外的任何 reactions 皆不計數。
 
-As described above, we're using GitHub's Issues feature as our proposal and voting system, so **adding a "+1 reaction" (👍) against an issue** counts as a vote. You can vote for multiple proposals, and all the reactions other than "+1" don't count. 
+As described above, we're using GitHub's Issues feature as our proposal and voting system, so **adding a "+1 reaction" (👍) against an issue** counts as a vote. You can vote for multiple proposals, and all the reactions other than "+1" don't count.
+
+1. "Add your reaction" ![](http://i.imgur.com/taxKLRd.png)
+2. "+1" (👍) ![](http://i.imgur.com/5iizsQ7.png)
