@@ -9,8 +9,8 @@
 
 
 ## Table of Contents
-- [如何投稿？How to Propose?](#如何投稿-How-to-Propose)
-- [如何投票？How to Vote?](#如何投稿-How-to-Vote)
+- [如何投稿？How to Propose?](#如何投稿how-to-propose)
+- [如何投票？How to Vote?](#如何投票how-to-vote)
 
 ## 如何投稿？How to Propose?
 我們採用 GitHub 的 Issues 功能作為非正式會議的投稿及投票系統，因此**發起一個新的 issue** 即為投稿非正式會議。以下是您在投稿時需要填入的資訊：
