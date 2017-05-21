@@ -8,6 +8,8 @@
 - [**目前稿件列表 & 投票 Proposed talks list & votes**](https://github.com/pycontw/unconference/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 - **我們將會在 5/29 開始開放非正式會議的投稿及投票**  
   **We're going to open for unconference proposals and votes on May 29th**
+- 歡迎各類型與各形式的會議，但請務必遵守[**行為準則**](https://tw.pycon.org/2017/about/code-of-conduct/)  
+  All types and forms of discussions or speeches are welcomed, but please follow the [**Code of Conduct**](https://tw.pycon.org/2017/about/code-of-conduct/)
 
 
 ## Table of Contents
