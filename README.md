@@ -6,10 +6,21 @@
 - [**簡介 Introduction**](https://tw.pycon.org/2017/events/unconference/)
 - [**投稿 Propose a talk**](https://github.com/pycontw/unconference/issues/new)
 - [**目前稿件列表 & 投票 Proposed talks list & votes**](https://github.com/pycontw/unconference/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
-- **我們將會在 5/29 開始開放非正式會議的投稿及投票**  
-  **We're going to open for unconference proposals and votes on May 29th**
-- 歡迎各類型與各形式的會議，但請務必遵守[**行為準則**](https://tw.pycon.org/2017/about/code-of-conduct/)  
-  All types and forms of discussions or speeches are welcomed, but please follow the [**Code of Conduct**](https://tw.pycon.org/2017/about/code-of-conduct/)
+
+## 議程 Schedule
+
+### 早上場 Morning Session
+- 10:55: [用Python拯救地球： 如何找出危險的太陽系天體？](https://github.com/pycontw/unconference/issues/5) (8 👍s)
+- 11:15: [CPython code sprint](https://github.com/pycontw/unconference/issues/3) (13 👍s)
+- 11:35: [一個軟體工程師在農村的見聞](https://github.com/pycontw/unconference/issues/8) (16 👍s)
+
+### 下午場 Afternoon Session
+- 13:00: [What Steve Jobs Taught Me about Software Development and Life in General](https://github.com/pycontw/unconference/issues/1) (18 👍s)
+- 13:20: [大會遊戲 line chatbot 黑白亂做](https://github.com/pycontw/unconference/issues/4) (5 👍s)
+- 13:40: [懶得答題？寫個 bot 來幫你刷榜](https://github.com/pycontw/unconference/issues/6) (13 👍s)
+- 14:00: [初めてのプログラミングならパイザで始めよう☆](https://github.com/pycontw/unconference/issues/9) (5 👍s)
+- 14:20: [上雲容易下雲難? 真的假的?](https://github.com/pycontw/unconference/issues/7) (10 👍s)
+- 14:40: [The Power of Decentralization: Take ZeroNet for Example](https://github.com/pycontw/unconference/issues/2) (7 👍s)
 
 
 ## Table of Contents
